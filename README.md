@@ -67,8 +67,7 @@ function getTriposoPOIData(triposoId) {
     })
 }
 ```
-By spreading the data object return from the API request with data from our own database we were able to return a single JSON object with all the data to the front end. By having all requests to the Triposo API made from the back end, the front end would only have to make a single request to the back end
-By having the front end make a single request to the back end
+By spreading the data object return from the API request with data from our own database we were able to return a single JSON object with all the data to the front end. By having all requests to the Triposo API made from the back end, the front end would only have to make a single request to the back end rather than two separate requests to Triposo's and our own API.
 
 ## Challenges
 
