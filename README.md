@@ -9,6 +9,14 @@ Users can search Places (for example cities, countries, areas, and other types o
 
 Take a look here: [Walkabout](https://walkabout-project.herokuapp.com)
 
+## Requirements
+
+Build a MERN stack application by collaborating in a group. The app should have:
+
+* A number of models
+* You should be able to perform full CRUD actions
+* Include a seeds file
+
 ## Team Members
 Shane - https://github.com/shaneshibu/  
 Cliff - https://github.com/Cliff-Conolly/  
