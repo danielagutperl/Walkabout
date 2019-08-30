@@ -4,10 +4,12 @@
 ## Introduction
 A travel site modelled after tripadvisor.com. Using a MERN stack and an external API, users can search for places of interest in places all over the world and save them to their own trips they can create.
 
+Take a look at: [Walkabout](https://walkabout-project.herokuapp.com)
+
 ## Team Members
 Shane - https://github.com/shaneshibu/  
 Cliff - https://github.com/Cliff-Conolly/  
-Dan - https://github.com/danielagutperl/
+Daniela - https://github.com/danielagutperl/
 
 ## Timeframe
 1 week (June 2019)
