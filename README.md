@@ -112,8 +112,18 @@ getDestinations() {
 ```
 
 ## Future Features
-- Additional Styling. While the site is mostly functional, we didn't have enough time to style the front end so we could spend some additional time to make it look nicer.
-- Currently users have to use a radio button on the front page to choose between searching cities and places of interest. Ideally we could make it so the search bar searches both without the need for a radio button.
+- Design/UX improvements. Given the size of the task at hand and the short timeframe allowed (particularly for learning Programmers, without a design background) we spent considerably less time making UX and design decisions than would be ideal for a great user experience. For instance, we implemented radio buttons for the search type (POI vs Place) and we could do away with the need for a radio button failry easily.
+- Additional Styling. While the site is mostly functional, we didn't have enough time to style the front end so we could spend some additional time to make it look nicer. For instance the search results can be displayed in a much nicer way.
+- Additional functionality we discussed at the outset of the project included:
+* A chat or forum feature, to improve the social/sharing side of the app
+* A chat bot to help users find ideas and recommendations (or even sell travel experiences, flights etc!)
+* Links with other social media platforms
+We decided that these and other features were better kept until the basic requirements for the project were met, because of the sheer time needed to further develop our app.
+
+## Key learnings
+* This app is definitely not finished, but one of my key learnings is to aim for an MVP in accordance with the requirements/timeframe first. We managed to achieve that as a group very well, and I'm really proud of that.
+* Following the last project where we were allowed to collaborate, but had to use a single machine to keep the code and not use any collaboration tools, it was a much, much nicer experience working in this way and in particular using github! So the need to use the available tools is underscored by this project. Its really fun collaborating with opther people, seeing how others solve problems, reviewing their code and having mine reviewed, and helping each other generally and this is made much easier using those tools!!
+* Planning is key. I think we could have spent more time planning the integration of the two APIs, rather than solving this on the fly after we started coding, and this would have saved some time along the way.
 
 ## **API Documentation**  
 
