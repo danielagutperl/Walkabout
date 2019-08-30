@@ -4,7 +4,10 @@
 ## Introduction
 A travel site modelled after tripadvisor.com. Using a MERN stack and an external API, users can search for places of interest in places all over the world and save them to their own trips they can create.
 
-Take a look at: [Walkabout](https://walkabout-project.herokuapp.com)
+## Using the app
+Users can search Places (for example cities, countries, areas, and other types of places) or Points of Interest (a restaurant, museeum or other POI - for instance the Science Museeum) at a place to find information. They can also search other users trips. Users can register or authenticate to create trips and add Places and POIs to their profile.
+
+Take a look here: [Walkabout](https://walkabout-project.herokuapp.com)
 
 ## Team Members
 Shane - https://github.com/shaneshibu/  
